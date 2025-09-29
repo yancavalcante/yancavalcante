@@ -19,7 +19,7 @@ Acesse meu portfólio em:
   "showFollowers": false,
   "followers": 0,
   "following": 4,
-  "themeId": "cyberpunk",
+  "themeId": "dark",
   "tech": [
   "Python",
   "PowerBI",
